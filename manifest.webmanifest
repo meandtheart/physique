@@ -1,7 +1,7 @@
 {
-  "name": "V-Taper 30",
-  "short_name": "V-Taper",
-  "description": "30-day bodyweight V-taper workout tracker",
+  "name": "PhyTrack",
+  "short_name": "PhyTrack",
+  "description": "30-day bodyweight workout and body progress tracker",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
