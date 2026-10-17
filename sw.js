@@ -1,5 +1,5 @@
 // Caches the whole app so it opens with no internet. Bump CACHE when you change any file.
-const CACHE = "vtaper30-v3";
+const CACHE = "vtaper30-v4";
 const FILES = [
   "./", "index.html", "manifest.webmanifest",
   "barlow-latin-400-normal.woff2", "barlow-latin-500-normal.woff2", "barlow-latin-600-normal.woff2",
